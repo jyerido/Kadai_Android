@@ -5,6 +5,10 @@ android訓練課題で作成したアプリです。
 
 
 ![screenshot_20180222-143911](https://user-images.githubusercontent.com/35995374/36580093-16767e5c-18aa-11e8-9169-b4f784a1e58f.png)
+![screenshot_20180222-145349](https://user-images.githubusercontent.com/35995374/36580099-1b197950-18aa-11e8-8554-11afc11d441e.png)
+![screenshot_20180222-145409](https://user-images.githubusercontent.com/35995374/36580104-206be05a-18aa-11e8-9806-b28144840c6a.png)
+![screenshot_20180222-145420](https://user-images.githubusercontent.com/35995374/36580107-24579100-18aa-11e8-8d76-315c7fa6e644.png)
+![screenshot_20180222-145427](https://user-images.githubusercontent.com/35995374/36580110-27b629b0-18aa-11e8-922f-c00a21eaa76d.png)
 
 **課題の仕様書よりMainActivityから4機能の画面遷移し使用できるandroidアプリケーションを作りました。** 
 
