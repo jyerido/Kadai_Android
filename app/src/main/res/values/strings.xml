@@ -1,0 +1,30 @@
+<resources>
+    <string name="Android_Kadai">課題</string>
+    <string name="app_name">課題</string>
+    <string name="changeBackgroundColor_button_text">背景色</string>
+    <string name="sensor_button_text">センサー</string>
+    <string name="service_button_text">サービス</string>
+    <string name="network_button_text">ネットワーク</string>
+
+    <string name="change_color_label">訓練課題「背景色」</string>
+    <string name="whiteRadioButton_text">白</string>
+    <string name="redRadioButton_text">赤</string>
+    <string name="blueRadioButton_text">青</string>
+    <string name="greenRadioButton_text">緑</string>
+    <string name="yellowRadioButton_text">黄</string>
+    <string name="commitButton_text">決定</string>
+
+    <string name="sensor_label">訓練課題「センサー」</string>
+    <string name="lx_level0">━</string>
+    <string name="lx_level1">◎</string>
+    <string name="lx_level2">〇</string>
+    <string name="lx_level3">△</string>
+    <string name="lx_level4">×</string>
+    <string name="backButton_text">戻る</string>
+
+    <string name="service_label">訓練課題「サービス」</string>
+    <string name="startButton_text">スタート</string>
+    <string name="stopButton_text">ストップ</string>
+
+    <string name="network_label">訓練課題「ネットワーク」</string>
+</resources>

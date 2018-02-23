@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.example.ict814.template.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout0"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_changeBackgroundColor"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:alpha="0.7"
+                android:background="@drawable/button_design"
+                android:onClick="onClick"
+                android:text="@string/changeBackgroundColor_button_text"
+                android:textSize="45sp" /> //ボタンの透過度の設定
+
+            <Button
+                android:id="@+id/btn_sensor"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:alpha="0.7"
+                android:background="@drawable/button_design"
+                android:text="@string/sensor_button_text"
+                android:textSize="45sp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_service"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:alpha="0.7"
+                android:background="@drawable/button_design"
+                android:text="@string/service_button_text"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/btn_network"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:alpha="0.7"
+                android:background="@drawable/button_design"
+                android:text="@string/network_button_text"
+                android:textSize="45sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
