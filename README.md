@@ -4,11 +4,12 @@ android訓練課題で作成したアプリです。
 
 
 
-![screenshot_20180222-143911](https://user-images.githubusercontent.com/35995374/36580093-16767e5c-18aa-11e8-9169-b4f784a1e58f.png)
-![screenshot_20180222-145349](https://user-images.githubusercontent.com/35995374/36580099-1b197950-18aa-11e8-8554-11afc11d441e.png)
-![screenshot_20180222-145409](https://user-images.githubusercontent.com/35995374/36580104-206be05a-18aa-11e8-9806-b28144840c6a.png)
-![screenshot_20180222-145420](https://user-images.githubusercontent.com/35995374/36580107-24579100-18aa-11e8-8d76-315c7fa6e644.png)
-![screenshot_20180222-145427](https://user-images.githubusercontent.com/35995374/36580110-27b629b0-18aa-11e8-922f-c00a21eaa76d.png)
+![screenshot_20180222-143911](https://user-images.githubusercontent.com/35995374/36580471-c41a9ba0-18ab-11e8-95c8-8da0b46d2d8f.png)
+![screenshot_20180222-145349](https://user-images.githubusercontent.com/35995374/36580472-c444c722-18ab-11e8-865e-aaf408ce4cdd.png)
+![screenshot_20180222-145409](https://user-images.githubusercontent.com/35995374/36580473-c46fcc92-18ab-11e8-9cce-a6d9c950948a.png)
+![screenshot_20180222-145420](https://user-images.githubusercontent.com/35995374/36580474-c49507aa-18ab-11e8-84ff-a61f9eb7e3be.png)
+![screenshot_20180222-145427](https://user-images.githubusercontent.com/35995374/36580475-c4b9d7c4-18ab-11e8-9687-8bee19ba3bef.png)
+
 
 **課題の仕様書よりMainActivityから4機能の画面遷移し使用できるandroidアプリケーションを作りました。** 
 
