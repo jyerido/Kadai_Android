@@ -4,7 +4,7 @@ android訓練課題で作成したアプリです。
 
 
 
-https://user-images.githubusercontent.com/35995374/36580093-16767e5c-18aa-11e8-9169-b4f784a1e58f
+![screenshot_20180222-143911](https://user-images.githubusercontent.com/35995374/36580093-16767e5c-18aa-11e8-9169-b4f784a1e58f.png)
 
 **課題の仕様書よりMainActivityから4機能の画面遷移し使用できるandroidアプリケーションを作りました。** 
 
