@@ -10,14 +10,15 @@ android訓練課題で作成したアプリです。
 ![screenshot_20180222-145420](https://user-images.githubusercontent.com/35995374/36580474-c49507aa-18ab-11e8-84ff-a61f9eb7e3be.png)
 ![screenshot_20180222-145427](https://user-images.githubusercontent.com/35995374/36580475-c4b9d7c4-18ab-11e8-9687-8bee19ba3bef.png)
 
-
-**課題の仕様書よりMainActivityから4機能の画面遷移し使用できるandroidアプリケーションを作りました。**   
+---
+**課題の仕様書よりMainActivityから4機能の画面遷移し使用できるandroidアプリケーションを作りました。**   
  機能が4つなのでシンプルで使いやすいデザインにしました。  
 ボタンは押しやすさを考えて大きめにしており、タップすると黒くなり押した感覚がでるようになっています。  
 全て自分の力で制作したわけではないですが、訓練中の知識・参考書・指導員のアドバイス・WEB上の情報を元に作りました。    
 環境：AndroidStudio 3.0.1    
 実機テスト：Nexus7（2013）android6.0.1
 
+---
 
 - 課題1→UI設計
 
