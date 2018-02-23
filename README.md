@@ -1,5 +1,6 @@
 # polytech-portfolio
 android訓練課題で作成したアプリです。
+
 **課題の仕様書よりMainActivityから4機能の画面遷移し使用できるandroidアプリケーションを作りました。** 
 
 - 課題1→UI設計
