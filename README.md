@@ -5,6 +5,7 @@ android訓練課題で作成したアプリです。
 
 
 ![screenshot_20180222-155246](https://user-images.githubusercontent.com/35995374/36581675-77278546-18b1-11e8-95bf-a025560a4044.png)
+![screenshot_20180225-101431](https://user-images.githubusercontent.com/35995374/36649058-830251a6-1add-11e8-99cf-9ebe12afe88b.png)
 ![screenshot_20180222-145349](https://user-images.githubusercontent.com/35995374/36580472-c444c722-18ab-11e8-865e-aaf408ce4cdd.png)
 ![screenshot_20180222-155025](https://user-images.githubusercontent.com/35995374/36581625-318d784c-18b1-11e8-9d73-acb47513d567.png)
 ![screenshot_20180222-145409](https://user-images.githubusercontent.com/35995374/36580473-c46fcc92-18ab-11e8-9cce-a6d9c950948a.png)
