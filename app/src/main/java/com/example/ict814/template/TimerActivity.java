@@ -36,7 +36,7 @@ public class TimerActivity extends AppCompatActivity implements View.OnClickList
             //"count"をキーにtimeLeftに値を受け取る
             int timeLeft = intent.getIntExtra("count", 0);
 
-            if (timeLeft <= 0) {
+            if (timeLeft == 0) {
                 //音を鳴らす設定
                 ToneGenerator toneGenerator = new ToneGenerator(AudioManager.STREAM_SYSTEM, ToneGenerator.MAX_VOLUME);
                 toneGenerator.startTone(ToneGenerator.TONE_SUP_PIP, 2000);
