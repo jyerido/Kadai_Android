@@ -1,5 +1,4 @@
 # polytech-portfolio
----
 app-src-main-templateから各機能のJAVAソースコードがご覧いただけます。  
 app-src-main-res-layoutから画面レイアウトのxmlがご覧いただけます。  
 ---
