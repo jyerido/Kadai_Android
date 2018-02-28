@@ -1,4 +1,8 @@
 # polytech-portfolio
+---
+app-src-main-templateから各機能のJAVAソースコードがご覧いただけます。  
+app-src-main-res-layoutから画面レイアウトのxmlがご覧いただけます。  
+---
 **課題の仕様書よりMainActivityから4機能の画面遷移し使用できるandroidアプリケーションを作りました。**  
 ---
 android訓練課題で作成したアプリです。  
